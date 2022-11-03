@@ -1,7 +1,7 @@
 <h1>Guessing Game</h1>
 
 <h2>Description</h2>
-This simple game prompts the user to guess the capital city of a random country. If the user's guess is incorrect the program lets the user know and tells them the correct capital city. If the user's guess is correct the program tells them they are correct and also shows the population of the city. 
+This simple game prompts the user to guess the capital city of a random country. If the user's guess is incorrect the program lets the user know and tells them the correct capital city. If the user's guess is correct the program tells them they are correct and also shows the population of the country. 
 <br />
 
 
